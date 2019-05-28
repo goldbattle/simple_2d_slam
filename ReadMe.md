@@ -7,7 +7,7 @@ The data was originally taken from [Luca Carlone's](https://lucacarlone.mit.edu/
 Originally the raw datasets where 2D LiDAR scans, but have been already converted into the [g2o format](data/g2oVStoro.pdf) for simplification.
 The solver is based on the [A Tutorial on Graph-Based SLAM](data/grisetti10titsmag.pdf) by Grisetti et al.
 Simply run the build_and_solve.m script to load the graph and optimize it.
-
+Figures below have the initial guess in blue with the optimized value in red.
 
 
 ### Intel Dataset
